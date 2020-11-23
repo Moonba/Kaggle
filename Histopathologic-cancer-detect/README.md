@@ -1,3 +1,5 @@
+Download Input Data Source from the [competition page](https://www.kaggle.com/c/histopathologic-cancer-detection/data)
+
 # Introduction
 This notebook provides solution to [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) challenge on Kaggle. This is a perfect Computer Vision problem where we are tasked with the detection of cancer by identifying metastatic tissue in histopathologic scans of lymph nodes using Deep Learning.
 
