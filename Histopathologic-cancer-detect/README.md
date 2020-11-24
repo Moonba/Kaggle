@@ -1,5 +1,5 @@
 # Introduction
-This notebook is inspired from[Abhinand05](https://www.kaggle.com/abhinand05/histopathologic-cancer-detection-using-cnns) 's submission providing a solution to [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) challenge on Kaggle. This is a perfect Computer Vision problem where we are tasked with the detection of cancer by identifying metastatic tissue in histopathologic scans of lymph nodes using Deep Learning.
+This notebook is inspired from [Abhinand05](https://www.kaggle.com/abhinand05/histopathologic-cancer-detection-using-cnns)'s submission providing a solution to [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) challenge on Kaggle. This is a perfect Computer Vision problem where we are tasked with the detection of cancer by identifying metastatic tissue in histopathologic scans of lymph nodes using Deep Learning.
 
  ![cancer](https://jithinjk.github.io/blog/images/histo/pcam.png)
 
