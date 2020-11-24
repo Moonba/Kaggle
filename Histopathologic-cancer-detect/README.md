@@ -15,7 +15,7 @@ Images name format: image_id.tiff
 The train_labels.csv file provides the ground truth for the images in the train folder.
 As it's a binary classification problem, the desired submission format is | image_id | 0 or 1 |.
 
-To run this notebook, please download the [input data](https://www.kaggle.com/c/histopathologic-cancer-detection/data)
+To run this notebook, please change Runtime > GPU on Google Colab.
 
  > You are predicting the labels for the images in the test folder. A positive label indicates that the center 32x32px region of a patch contains at least one pixel of tumor tissue. Tumor tissue in the outer region of the patch does not influence the label. This outer region is provided to enable fully-convolutional models that do not use zero-padding, to ensure consistent behavior when applied to a whole-slide image.
  
