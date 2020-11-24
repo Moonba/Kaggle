@@ -1,14 +1,12 @@
 # Introduction
-This notebook is inspired from [Abhinand05](https://www.kaggle.com/abhinand05/histopathologic-cancer-detection-using-cnns)'s submission providing a solution to [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) challenge on Kaggle. This is a perfect Computer Vision problem where we are tasked with the detection of cancer by identifying metastatic tissue in histopathologic scans of lymph nodes using Deep Learning.
-
- ![cancer](https://jithinjk.github.io/blog/images/histo/pcam.png)
+This notebook is inspired from [Abhinand05](https://www.kaggle.com/abhinand05/histopathologic-cancer-detection-using-cnns)'s submission providing a solution to [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview) challenge on Kaggle. 
 
 ### Background:
 In this problem, we have to create an algorithm to identify metastatic cancer in small image patches taken from larger digital pathology scans. 
 The data for this competition is a slightly modified version of the [PatchCamelyon (PCam) benchmark dataset](https://github.com/basveeling/pcam). 
 In the author's words:
 >PCam packs the clinically-relevant task of metastasis detection into a straight-forward binary image classification task, akin to CIFAR-10 and MNIST. Models can easily be trained on a single GPU in a couple hours, and achieve competitive scores in the Camelyon16 tasks of tumor detection and WSI diagnosis. Furthermore, the balance between task-difficulty and tractability makes it a prime suspect for fundamental machine learning research on topics as active learning, model uncertainty and explainability.
-
+ ![cancer](https://jithinjk.github.io/blog/images/histo/pcam.png)
 ### Data:
 
 **The train data we have here contains 220,025 images and the test set contains 57,468 images.** 
